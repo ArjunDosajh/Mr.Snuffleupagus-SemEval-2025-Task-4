@@ -78,3 +78,6 @@ python evaluate_generations.py \
 - [SemEval 2025 Task 4](https://llmunlearningsemeval2025.github.io/)
 - [OLMo-7B Model](https://huggingface.co/allenai/OLMo-7B)
 
+## Authors
+- [Arjun Dosajh](https://github.com/ArjunDosajh)
+- [Mihika Sanghi](https://github.com/mihikasanghi)
